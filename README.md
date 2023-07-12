@@ -12,6 +12,6 @@ Feel free to contribute to this as you like. I am learning something new with pr
 
 
   <h2> Installing the Compiler</h2>
-  [here] (https://www.scaler.com/topics/c/c-compiler-for-windows/)
+  [here](https://www.scaler.com/topics/c/c-compiler-for-windows/)
 
   Follow the guide to install the GCC compiler for this code or if you prefer a different compile altogether, do your thing.
